@@ -33,4 +33,4 @@
 Open Source UEFI Platforms from tianocore.org
 
 
-To see the Slides goto  https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/
+To see the Slides goto  https://gitpitch.com/tianocore-training/OpenSource_Platforms_Pres/master#/
