@@ -9,7 +9,7 @@
 Note:
   PITCHME.md for UEFI / EDK II Training EDK II Open Source Platforms
 
-  Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -184,7 +184,7 @@ Note:
 Note:
 
 
----?image=/assets/images/slides2/Slide12.JPG
+---?image=/assets/images/slides2/Slide10_1.JPG
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore]
 <br>
@@ -195,7 +195,6 @@ Note:
 <p style="line-height:50%"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
 	Coreboot…Pkg<br>
-	DuetPkg<br>
 	Nt32Pkg<br>
 	OvmfPkg<br>
 	QuarkPlatformPkg<br><br>
@@ -205,7 +204,7 @@ See Readme.md files
 
 Note:
 
-+++?image=/assets/images/slides2/Slide13.JPG
++++?image=/assets/images/slides2/Slide11_1.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 02]
@@ -217,7 +216,6 @@ Note:
 <p style="line-height:50%"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
 	Coreboot…Pkg<br>
-	DuetPkg<br>
 	Nt32Pkg<br>
 	OvmfPkg<br>
 	QuarkPlatformPkg<br><br>
@@ -227,7 +225,7 @@ See Readme.md files
 
 Note:
 
-+++?image=/assets/images/slides2/Slide14.JPG
++++?image=/assets/images/slides2/Slide12_1.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 03]
@@ -239,7 +237,6 @@ Note:
 <p style="line-height:50%"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
 	Coreboot…Pkg<br>
-	DuetPkg<br>
 	Nt32Pkg<br>
 	OvmfPkg<br>
 	QuarkPlatformPkg<br><br>
@@ -249,7 +246,7 @@ See Readme.md files
 
 Note:
 
----?image=/assets/images/slides2/Slide16.JPG
+---?image=/assets/images/slides2/Slide13_1.JPG
 @title[NT32 Emulation Dir ]
 #### <p align="right"><span class="gold" >NT32 Emulation Directory Structure </span></p>
 <br>
@@ -457,6 +454,25 @@ Note:
 ![Questions](/assets/images/questions.JPG =10x) 
 
 
+---
+@title[return to main]
+<p align="center"><span class="gold"   >@size[1.2em](<b>Return to Main Training Page</b>)</span></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">link</a></span></p>
+
+@snap[north span-30 ]
+<br>
+<br>
+<br>
+<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">
+![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
+@snapend
+
+
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Logo Slide]
 <BR><BR><BR>
@@ -497,7 +513,7 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWIS
 ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY 
 OF SUCH DAMAGE.
 
-Copyright (c) 2018, Intel Corporation. All rights reserved.
+Copyright (c) 2019, Intel Corporation. All rights reserved.
 **/
 
 ```
